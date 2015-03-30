@@ -1,0 +1,6 @@
+#ifndef TYPECASE_H
+#define TYPECASE_H
+
+enum TypeCase { VIDE, DESTRUCTIBLE, INDESTRUCTIBLE };
+
+#endif // TYPECASE_H
